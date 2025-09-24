@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning to code with python and C. <br>I'm in last grade of High School.<br>And I'm hoping to join Epitech soon.
+I'm currently learning to code. <br>I'm a first year student at Epitech.<br>
 
 
 ## 🌐 Socials:
